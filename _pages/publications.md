@@ -36,6 +36,15 @@ G. Durisi and A. Lancho, <em><a href="https://gdurisi.github.io/fbl-notes/">Tran
 ## Journal Papers
 <font size="2">
 <ol>
+
+<li>
+ J. Ostman, A. Lancho, G. Durisi, and L. Sanguinetti, “URLLC with Massive MIMO: Analysis and
+Design at Finite Blocklength,” 2021. (to appear) [<a href="http://arxiv.org/abs/2009.10550">arXiv</a>] [<a href="https://github.com/infotheorychalmers/URLLC_Massive_MIMO">matlab code</a>]
+</li>
+<hr>
+</ol>
+</font>
+
 <li>
 A. Lancho, J. Ostman, G. Durisi, T. Koch, and G. Vazquez-Vilar, 
 “Saddlepoint Approximations for Short-Packet Wireless Communications,” 
