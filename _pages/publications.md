@@ -33,7 +33,7 @@ G. Durisi and A. Lancho, <em><a href="https://gdurisi.github.io/fbl-notes/">Tran
 <ol>
 
 <li>
- J. Ostman, A. Lancho, G. Durisi, and L. Sanguinetti, “URLLC with Massive MIMO: Analysis and Design at Finite Blocklength,” 2021. (to appear) [<a href="http://arxiv.org/abs/2009.10550">arXiv</a>] [<a href="https://github.com/infotheorychalmers/URLLC_Massive_MIMO">matlab code</a>]
+ J. Ostman, A. Lancho, G. Durisi, and L. Sanguinetti, “URLLC with Massive MIMO: Analysis and Design at Finite Blocklength,” 2021. (to appear) [<a href="http://arxiv.org/abs/2009.10550">arXiv</a>] [<a href="https://ieeexplore.ieee.org/document/9416241">IEEExplore</a>] [<a href="https://github.com/infotheorychalmers/URLLC_Massive_MIMO">matlab code</a>]
 </li>
 <hr>
 
@@ -74,6 +74,11 @@ A. Lancho, J. Ostman, G. Durisi, T. Koch, and G. Vazquez-Vilar,
 ## Conference Papers
 <font size="2">
 <ol>
+<li>
+A. Lancho, G. Durisi, and L. Sanguinetti, “Cell free Massive MIMO with short packets,” to be presented at IEEE Int. Workshop on Signal Process. Adv. and Wireless Commun. (SPAWC), Lucca, Italy, Sep. 2021. 
+[<a href="https://arxiv.org/abs/2107.10707">arXiv</a>]
+</li><hr>
+
 <li>
  K.-H. Ngo, A. Lancho, G. Durisi, and A. Graell i Amat, “Massive Uncoordinated Access With Random User Activity,” in Proc. IEEE Int. Symp. Inf. Theory (ISIT), Melbourne, Australia, Jul. 2021.
 </li><hr>
