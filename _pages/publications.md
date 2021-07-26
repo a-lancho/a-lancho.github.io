@@ -75,7 +75,7 @@ A. Lancho, J. Ostman, G. Durisi, T. Koch, and G. Vazquez-Vilar,
 <font size="2">
 <ol>
 <li>
-A. Lancho, G. Durisi, and L. Sanguinetti, “Cell free Massive MIMO with short packets,” to be presented at IEEE Int. Workshop on Signal Process. Adv. and Wireless Commun. (SPAWC), Lucca, Italy, Sep. 2021. 
+A. Lancho, G. Durisi, and L. Sanguinetti, “Cell Free Massive MIMO with Short Packets,” to be presented at IEEE Int. Workshop on Signal Process. Adv. and Wireless Commun. (SPAWC), Lucca, Italy, Sep. 2021. 
 [<a href="https://arxiv.org/abs/2107.10707">arXiv</a>]
 </li><hr>
 
