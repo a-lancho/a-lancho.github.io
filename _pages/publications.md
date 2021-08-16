@@ -85,7 +85,8 @@ A. Lancho, G. Durisi, and L. Sanguinetti, “Cell Free Massive MIMO with Short P
 
   <li>
      A. Lancho, J. Ostman, G. Durisi, and L. Sanguinetti, “A finite-blocklength analysis for URLLC with
-massive MIMO,” in <em>Proc. IEEE Int. Conf. Commun. (ICC)</em>, Montreal, Canada, Jun. 2021.
+massive MIMO,” in <em>Proc. IEEE Int. Conf. Commun. (ICC)</em>, Montreal, Canada, Jun. 2021. 
+[<a href="https://ieeexplore.ieee.org/document/9500881">IEEExplore</a>]
   </li>
   <hr>
 
