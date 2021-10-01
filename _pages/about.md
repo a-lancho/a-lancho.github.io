@@ -19,11 +19,11 @@ Gothenburg, Sweden
 ---
 
 # About
-I received my B.E., M.Sc. and Ph.D. degrees in Electrical Engineering from the Universidad Carlos III de Madrid, Spain, in 2013, 2014 and 2019, respectively. During the fall of 2017, I was a visiting researcher at Chalmers University of Technology. Since October, 2019, I work at Chalmers University of Technology as a postdoctoral researcher. 
+I received my B.E., M.Sc. and Ph.D. degrees in Electrical Engineering from the Universidad Carlos III de Madrid, Spain, in 2013, 2014 and 2019, respectively. I was an FPU fellow (Spanish Ministerio de Educación Cultura y Deporte) during my Ph.D. studies. I was among the six finalists for the IEEE Jack Keil Wolf ISIT Student Paper Award at the 2017 IEEE International Symposium on Information Theory, Aachen, Germany, 2017. During the fall of 2017, I was a visiting researcher at Chalmers University of Technology. From October 2019 to September 2021, I was a postdoctoral researcher at Chalmers University of Technology.
 
-Next fall, I will start my recently awarded Marie-Sklodowska Curie global fellowship. The outgoing phase will be at the MIT under the supervision of Prof. Yury Polyanskiy, and the return phase will be at UC3M, Spain, under the supervision of Prof. Tobias Koch.  
+From October 2021, I am a Marie Curie postdoctoral fellow.  During the outgoing phase of the fellowship I will work at the MIT under the supervision of Prof. Yury Polyanskiy.  The return phase of the fellowship will be at the Universidad Carlos III de Madrid, Spain, under the supervision of Prof. Tobias Koch. The main objective of this Marie Curie project is to make progress on the study of the fundamental limits and tradeoffs of the asynchronous massive connectivity problem from an information-theoretic perspective, focusing on computationally tractable bounds, approximations, and schemes.
 
-I was an FPU fellow (Spanish Ministerio de Educación Cultura y Deporte) during my Ph.D. studies. I was among the six finalists for the IEEE Jack Keil Wolf ISIT Student Paper Award at the 2017 IEEE International Symposium on Information Theory, Aachen, Germany, 2017.
+Further information about the project can be found in https://cordis.europa.eu/project/id/101024432.
 
 
 

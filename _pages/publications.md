@@ -75,6 +75,11 @@ A. Lancho, J. Ostman, G. Durisi, T. Koch, and G. Vazquez-Vilar,
 <font size="2">
 <ol>
 <li>
+A. Lancho, J. \"Ostman and G. Durisi, “On Joint Detection and Decoding in Short-Packet Communications,” to be presented at IEEE Global Communications Conference (GLOBECOM), Madrid, Spain, Dec. 2021. 
+[<a href="https://arxiv.org/pdf/2109.13669.pdf">arXiv</a>]
+</li><hr>
+
+<li>
 A. Lancho, G. Durisi, and L. Sanguinetti, “Cell Free Massive MIMO with Short Packets,” to be presented at IEEE Int. Workshop on Signal Process. Adv. and Wireless Commun. (SPAWC), Lucca, Italy, Sep. 2021. 
 [<a href="https://arxiv.org/abs/2107.10707">arXiv</a>]
 </li><hr>
