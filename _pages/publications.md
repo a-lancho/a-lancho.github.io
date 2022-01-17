@@ -75,75 +75,75 @@ A. Lancho, J. Ostman, G. Durisi, T. Koch, and G. Vazquez-Vilar,
 <font size="2">
 <ol>
 <li>
-A. Lancho, J. Östman and G. Durisi, “<em>On Joint Detection and Decoding in Short-Packet Communications</em>,” in Proc. IEEE Global Communications Conference (GLOBECOM),, Madrid, Spain, Dec. 2021. 
+A. Lancho, J. Östman and G. Durisi, “On Joint Detection and Decoding in Short-Packet Communications,” in Proc. <em>IEEE Global Communications Conference (GLOBECOM)</em>, Madrid, Spain, Dec. 2021. 
 [<a href="https://arxiv.org/pdf/2109.13669.pdf">arXiv</a>]
 </li>
 <hr>
 
 <li>
-A. Lancho, G. Durisi, and L. Sanguinetti, “<em>Cell Free Massive MIMO with Short Packets</em>,” in Proc. IEEE Int. Workshop on Signal Process. Adv. and Wireless Commun. (SPAWC),, Lucca, Italy, Sep. 2021. 
+A. Lancho, G. Durisi, and L. Sanguinetti, “Cell Free Massive MIMO with Short Packets,” in Proc. <em>IEEE Int. Workshop on Signal Process. Adv. and Wireless Commun. (SPAWC)</em>, Lucca, Italy, Sep. 2021. 
 [<a href="https://arxiv.org/abs/2107.10707">arXiv</a>]
 </li>
 <hr>
 
 <li>
- K.-H. Ngo, A. Lancho, G. Durisi, and A. Graell i Amat, “Massive Uncoordinated Access With Random User Activity,” in Proc. IEEE Int. Symp. Inf. Theory (ISIT), Melbourne, Australia, Jul. 2021.
+ K.-H. Ngo, A. Lancho, G. Durisi, and A. Graell i Amat, “Massive Uncoordinated Access With Random User Activity,” in Proc. <em>IEEE Int. Symp. Inf. Theory (ISIT)</em>, Melbourne, Australia, Jul. 2021.
 </li>
 <hr>
 
   <li>
-     A. Lancho, J. Östman, G. Durisi, and L. Sanguinetti, “<em>A finite-blocklength analysis for URLLC with
-massive MIMO</em>,” in Proc. IEEE Int. Conf. Commun. (ICC), Montreal, Canada, Jun. 2021. 
+     A. Lancho, J. Östman, G. Durisi, and L. Sanguinetti, “A finite-blocklength analysis for URLLC with
+massive MIMO,” in Proc. <em>IEEE Int. Conf. Commun. (ICC)</em>, Montreal, Canada, Jun. 2021. 
 [<a href="https://ieeexplore.ieee.org/document/9500881">IEEExplore</a>]
   </li>
   <hr>
 
 <li>
-A. Lancho, J. Östman, T. Koch and G. Vazquez-Vilar, “<em>Finite-Blocklength Approximations for Noncoherent Rayleigh Block-Fading Channels</em>,” 
-in <em>Proc. Asilomar Conf. Signals, Syst., Comput., Pacific Grove CA, U.S.A., Nov. 2019. 
+A. Lancho, J. Östman, T. Koch and G. Vazquez-Vilar, “Finite-Blocklength Approximations for Noncoherent Rayleigh Block-Fading Channels,” 
+in <em>Proc. Asilomar Conf. Signals, Syst., Comput.</em>, Pacific Grove CA, U.S.A., Nov. 2019. 
 [<a href="https://ieeexplore.ieee.org/document/9049072">IEEExplore</a>]
 </li>
 <hr>
 
  <li>
-J. Östman, A. Lancho, and G. Durisi, “<em>Short-packet transmission over a
-  bidirectional massive MIMO link</em>,” in Proc. Asilomar Conf. Signals, Syst., Comput., Pacific Grove CA, U.S.A., Nov. 2019. 
+J. Östman, A. Lancho, and G. Durisi, “Short-packet transmission over a
+  bidirectional massive MIMO link,” in Proc. <em>Asilomar Conf. Signals, Syst., Comput.</em>, Pacific Grove CA, U.S.A., Nov. 2019. 
   [<a href="https://arxiv.org/abs/1912.00718">arXiv</a>] [<a href="https://ieeexplore.ieee.org/document/9048838">IEEExplore</a>]
 </li>
 <hr>
 
 <li>
-    A. Lancho, J. Östman, G. Durisi, T. Koch, and G. Vazquez-Vilar, “<em>Saddlepoint approximations for noncoherent single-antenna Rayleigh block-fading channels</em>,” in Proc. IEEE Int. Symp. Inf. Theory (ISIT), Paris, France, Jul. 2019.
+    A. Lancho, J. Östman, G. Durisi, T. Koch, and G. Vazquez-Vilar, “Saddlepoint approximations for noncoherent single-antenna Rayleigh block-fading channels,” in Proc. <em>IEEE Int. Symp. Inf. Theory (ISIT)</em>, Paris, France, Jul. 2019.
     [<a href="https://ieeexplore.ieee.org/document/8849659">IEEExplore</a>]
   </li>
   <hr>
 
 <li>
     G. Vazquez-Vilar, A. Guillén i Fàbregas, T. Koch and A. Lancho, 
-    “</em>Saddlepoint approximation of the error probability of binary hypothesis testing<em>,” 
-    in Proc. IEEE Int. Symp. Inf. Theory (ISIT), Vail, USA, Jun. 2018.
+    “Saddlepoint approximation of the error probability of binary hypothesis testing,” 
+    in Proc. <em>IEEE Int. Symp. Inf. Theory (ISIT)</em>, Vail, USA, Jun. 2018.
     [<a href="https://ieeexplore.ieee.org/document/8437503?arnumber=8437503">IEEExplore</a>]
   </li>
   <hr>
 
 <li>
-    A. Lancho, T. Koch, and G. Durisi, “<em>Normal approximation for fading channels</em>,” 
-    in Proc. Conf. Infor. Sci. and Syst. (CISS), Princeton, NJ, USA, Mar. 2018, 
+    A. Lancho, T. Koch, and G. Durisi, “Normal approximation for fading channels,” 
+    in Proc. <em>Conf. Infor. Sci. and Syst. (CISS)</em>, Princeton, NJ, USA, Mar. 2018, 
     <strong>invited paper</strong>. [<a href="https://ieeexplore.ieee.org/document/8362297">IEEExplore</a>]
 </li>
 <hr>
 
 <li>
     J. Font-Segura, G. Vazquez-Vilar, A. Martinez, A. Guillén i Fàbregas and A. Lancho, 
-    “<em>PSaddlepoint Approximations of Lower and Upper Bounds to the Error Probability in Channel Coding</em>,” 
-    in roc. Conf. Infor. Sci. and Syst. (CISS), Princeton, NJ, USA, Mar. 2018, 
+    “PSaddlepoint Approximations of Lower and Upper Bounds to the Error Probability in Channel Coding,” 
+    <em>in Proc. Conf. Infor. Sci. and Syst. (CISS)</em>, Princeton, NJ, USA, Mar. 2018, 
     <strong>invited paper</strong>. [<a href="https://ieeexplore.ieee.org/document/8362304">IEEExplore</a>]
 </li>
 <hr>
 
 <li>
-A. Lancho, T. Koch, and G. Durisi, “<em>PA high-SNR normal approximation for single-antenna Rayleigh block-fading channels</em>P,” 
-in Proc. IEEE Int. Symp. Inf. Theory (ISIT), Aachen, Germany, Jun. 2017. 
+A. Lancho, T. Koch, and G. Durisi, “PA high-SNR normal approximation for single-antenna Rayleigh block-fading channels,” 
+in Proc. <em>IEEE Int. Symp. Inf. Theory (ISIT)</em>, Aachen, Germany, Jun. 2017. 
 [<a href="http://publications.lib.chalmers.se/records/fulltext/249350/local_249350.pdf"
       target="_blank">pdf</a>] [<a href="https://ieeexplore.ieee.org/document/8006834">IEEExplore</a>]
 &nbsp;<b>Finalist student best paper award</b>
@@ -156,7 +156,7 @@ in Proc. IEEE Int. Symp. Inf. Theory (ISIT), Aachen, Germany, Jun. 2017.
 <font size="2">
 <ol>
   <li>
-     A. Lancho, “<em>Fundamental limits of short-packet wireless communications</em>,” PhD. Dissertation, Universidad Carlos III de Madrid, Jun. 2019.
+     A. Lancho, “Fundamental limits of short-packet wireless communications,” <em>PhD. Dissertation</em>, Universidad Carlos III de Madrid, Jun. 2019.
      [<a href="/files/2019/Thesis_Alex.pdf">pdf</a>]
   </li>
   <hr>
