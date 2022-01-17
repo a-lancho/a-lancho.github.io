@@ -10,7 +10,7 @@ redirect_from:
   - /about.html
 ---
 
-MSCA postdoctoral fellow at [Massachusetts Institute of Technology](https://web.mit.edu/)\
+MSCA postdoctoral fellow at Massachusetts Institute of Technology [(MIT)](https://web.mit.edu/)\
 Department of Electrical Engineering and Computer Science (EECS)\
 Laboratory for Information and Decision Systems (LIDS)\
 Cambridge, MA, USA   
