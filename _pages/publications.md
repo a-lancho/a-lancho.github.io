@@ -12,8 +12,8 @@ author_profile: true
 <font size="2">
 <ol>
 <li>
- K.-H. Ngo, A. Lancho, G. Durisi, and A. Graell i Amat, “Massive Uncoordinated Access With Random User Activity,” Mar. 2021. 
- [<a href="http://arxiv.org/abs/2103.09721">arXiv</a>]
+ K.-H. Ngo, A. Lancho, G. Durisi, and A. Graell i Amat, “Unsourced Multiple Access With Random User Activity,” Feb. 2022. 
+ [<a href="https://arxiv.org/abs/2202.06365">arXiv</a>] [<a href="https://github.com/khachoang1412/UMA_random_user_activity">matlab code</a>]
 </li><hr>
 
 </ol>
@@ -75,19 +75,23 @@ A. Lancho, J. Ostman, G. Durisi, T. Koch, and G. Vazquez-Vilar,
 <font size="2">
 <ol>
 <li>
-A. Lancho, J. Östman and G. Durisi, “On Joint Detection and Decoding in Short-Packet Communications,” in Proc. <em>IEEE Global Communications Conference (GLOBECOM)</em>, Madrid, Spain, Dec. 2021. 
+A. Lancho, J. Östman and G. Durisi, “On Joint Detection and Decoding in Short-Packet Communications,” in Proc. <em>IEEE Global Communications Conference (GLOBECOM)</em>, Madrid, Spain, Dec. 2021.
+[<a href="https://ieeexplore.ieee.org/document/9685448">IEEExplore</a>] 
 [<a href="https://arxiv.org/pdf/2109.13669.pdf">arXiv</a>]
 </li>
 <hr>
 
 <li>
 A. Lancho, G. Durisi, and L. Sanguinetti, “Cell Free Massive MIMO with Short Packets,” in Proc. <em>IEEE Int. Workshop on Signal Process. Adv. and Wireless Commun. (SPAWC)</em>, Lucca, Italy, Sep. 2021. 
+[<a href="https://ieeexplore.ieee.org/document/9593103">IEEExplore</a>]
 [<a href="https://arxiv.org/abs/2107.10707">arXiv</a>]
 </li>
 <hr>
 
 <li>
  K.-H. Ngo, A. Lancho, G. Durisi, and A. Graell i Amat, “Massive Uncoordinated Access With Random User Activity,” in Proc. <em>IEEE Int. Symp. Inf. Theory (ISIT)</em>, Melbourne, Australia, Jul. 2021.
+ [<a href="https://ieeexplore.ieee.org/document/9518253">IEEExplore</a>]
+ [<a href="http://arxiv.org/abs/2103.09721">arXiv</a>]
 </li>
 <hr>
 

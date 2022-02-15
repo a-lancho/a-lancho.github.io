@@ -1,7 +1,7 @@
 ---
 permalink: /
 title: "Alejandro Lancho"
-excerpt: "Alejandro Lancho, Postdoctoral Researcher, Chalmers University of Technology, information theory, communication theory, wireless communications"
+excerpt: "Alejandro Lancho, Postdoctoral Researcher, Massachusetts Institute of Technology, information theory, communication theory, wireless communications"
 author_profile: true
 layout: single
 classes: wide
