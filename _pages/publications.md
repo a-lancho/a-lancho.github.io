@@ -33,7 +33,7 @@ G. Durisi and A. Lancho, <em><a href="https://gdurisi.github.io/fbl-notes/">Tran
 <ol>
 
 <li>
- J. Ostman, A. Lancho, G. Durisi, and L. Sanguinetti, “URLLC with Massive MIMO: Analysis and Design at Finite Blocklength,” 2021. (to appear) [<a href="http://arxiv.org/abs/2009.10550">arXiv</a>] [<a href="https://ieeexplore.ieee.org/document/9416241">IEEExplore</a>] [<a href="https://github.com/infotheorychalmers/URLLC_Massive_MIMO">matlab code</a>]
+ J. Ostman, A. Lancho, G. Durisi, and L. Sanguinetti, “URLLC with Massive MIMO: Analysis and Design at Finite Blocklength,” <em>IEEE Trans. Wireless Commun.</em>, Apr. 2021. [<a href="http://arxiv.org/abs/2009.10550">arXiv</a>] [<a href="https://ieeexplore.ieee.org/document/9416241">IEEExplore</a>] [<a href="https://github.com/infotheorychalmers/URLLC_Massive_MIMO">matlab code</a>]
 </li>
 <hr>
 
