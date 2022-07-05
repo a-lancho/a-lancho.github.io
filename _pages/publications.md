@@ -11,6 +11,12 @@ author_profile: true
 ## Preprints
 <font size="2">
 <ol>
+
+<li>
+ A. Lancho, G. Durisi, and L. Sanguinetti, “Cell-Free Massive MIMO for URLLC: A Finite-Blocklength Analysis,” Jul. 2022. 
+ [<a href="https://arxiv.org/abs/2207.00856">arXiv</a>] 
+</li><hr>
+
 <li>
  K.-H. Ngo, A. Lancho, G. Durisi, and A. Graell i Amat, “Unsourced Multiple Access With Random User Activity,” Feb. 2022. 
  [<a href="https://arxiv.org/abs/2202.06365">arXiv</a>] [<a href="https://github.com/khachoang1412/UMA_random_user_activity">matlab code</a>]
