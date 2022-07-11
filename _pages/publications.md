@@ -80,6 +80,13 @@ A. Lancho, J. Ostman, G. Durisi, T. Koch, and G. Vazquez-Vilar,
 ## Conference Papers
 <font size="2">
 <ol>
+
+<li>
+G. Tsaloli, A. Lancho, K. Mitrokotsa, and G. Durisi, “Verifiable, Secure and Energy-Efficient Private Data Aggregation in Wireless Sensor Networks,” in Proc. <em>27th ACM on Symposium on Access Control Models and Technologies (SACMAT '22)</em>, New York, NY, USA, Jun. 2022.
+[<a href="https://dl.acm.org/doi/abs/10.1145/3532105.3535040">ACM (open access)</a>] 
+</li>
+<hr>
+
 <li>
 A. Lancho, J. Östman and G. Durisi, “On Joint Detection and Decoding in Short-Packet Communications,” in Proc. <em>IEEE Global Communications Conference (GLOBECOM)</em>, Madrid, Spain, Dec. 2021.
 [<a href="https://ieeexplore.ieee.org/document/9685448">IEEExplore</a>] 
