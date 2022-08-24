@@ -13,6 +13,11 @@ author_profile: true
 <ol>
 
 <li>
+ Gary C.F. Lee, Amir Weiss, Alejandro Lancho, Jennifer Tang, Yuheng Bu, Yury Polyanskiy and Gregory W. Wornell, “Exploiting Temporal Structures of Cyclostationary Signals for Data-Driven Single-Channel Source Separation,” Aug. 2022. 
+ [<a href="https://arxiv.org/abs/2208.10325">arXiv</a>] 
+</li><hr>
+
+<li>
  A. Lancho, G. Durisi, and L. Sanguinetti, “Cell-Free Massive MIMO for URLLC: A Finite-Blocklength Analysis,” Jul. 2022. 
  [<a href="https://arxiv.org/abs/2207.00856">arXiv</a>] 
 </li><hr>
@@ -152,14 +157,14 @@ J. Östman, A. Lancho, and G. Durisi, “Short-packet transmission over a
 
 <li>
     J. Font-Segura, G. Vazquez-Vilar, A. Martinez, A. Guillén i Fàbregas and A. Lancho, 
-    “PSaddlepoint Approximations of Lower and Upper Bounds to the Error Probability in Channel Coding,” 
+    “Saddlepoint Approximations of Lower and Upper Bounds to the Error Probability in Channel Coding,” 
     <em>in Proc. Conf. Infor. Sci. and Syst. (CISS)</em>, Princeton, NJ, USA, Mar. 2018, 
     <strong>invited paper</strong>. [<a href="https://ieeexplore.ieee.org/document/8362304">IEEExplore</a>]
 </li>
 <hr>
 
 <li>
-A. Lancho, T. Koch, and G. Durisi, “PA high-SNR normal approximation for single-antenna Rayleigh block-fading channels,” 
+A. Lancho, T. Koch, and G. Durisi, “A high-SNR normal approximation for single-antenna Rayleigh block-fading channels,” 
 in Proc. <em>IEEE Int. Symp. Inf. Theory (ISIT)</em>, Aachen, Germany, Jun. 2017. 
 [<a href="http://publications.lib.chalmers.se/records/fulltext/249350/local_249350.pdf"
       target="_blank">pdf</a>] [<a href="https://ieeexplore.ieee.org/document/8006834">IEEExplore</a>]
