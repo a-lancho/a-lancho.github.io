@@ -13,11 +13,6 @@ author_profile: true
 <ol>
 
 <li>
- Gary C.F. Lee, Amir Weiss, Alejandro Lancho, Jennifer Tang, Yuheng Bu, Yury Polyanskiy and Gregory W. Wornell, “Exploiting Temporal Structures of Cyclostationary Signals for Data-Driven Single-Channel Source Separation,” Aug. 2022. 
- [<a href="https://arxiv.org/abs/2208.10325">arXiv</a>] 
-</li><hr>
-
-<li>
  A. Lancho, G. Durisi, and L. Sanguinetti, “Cell-Free Massive MIMO for URLLC: A Finite-Blocklength Analysis,” Jul. 2022. 
  [<a href="https://arxiv.org/abs/2207.00856">arXiv</a>] 
 </li><hr>
@@ -85,6 +80,12 @@ A. Lancho, J. Ostman, G. Durisi, T. Koch, and G. Vazquez-Vilar,
 ## Conference Papers
 <font size="2">
 <ol>
+
+<li>
+ Gary C.F. Lee, Amir Weiss, Alejandro Lancho, Jennifer Tang, Yuheng Bu, Yury Polyanskiy and Gregory W. Wornell, “Exploiting Temporal Structures of Cyclostationary Signals for Data-Driven Single-Channel Source Separation,” in Proc. IEEE International Workshop for Machine Learning and Signal Processing (MLSP), Xi'an, China, Aug. 2022. 
+ [<a href="https://arxiv.org/abs/2208.10325">arXiv</a>] 
+ (<b>Best student paper award</b>)
+</li><hr>
 
 <li>
 G. Tsaloli, A. Lancho, K. Mitrokotsa, and G. Durisi, “Verifiable, Secure and Energy-Efficient Private Data Aggregation in Wireless Sensor Networks,” in Proc. <em>27th ACM on Symposium on Access Control Models and Technologies (SACMAT '22)</em>, New York, NY, USA, Jun. 2022.
