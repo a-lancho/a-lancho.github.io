@@ -87,7 +87,7 @@ A. Lancho, J. Ostman, G. Durisi, T. Koch, and G. Vazquez-Vilar,
 </li><hr>
 
 <li>
- Gary C.F. Lee, Amir Weiss, Alejandro Lancho, Jennifer Tang, Yuheng Bu, Yury Polyanskiy and Gregory W. Wornell, “Exploiting Temporal Structures of Cyclostationary Signals for Data-Driven Single-Channel Source Separation,” in Proc. <em>IEEE International Workshop for Machine Learning and Signal Processing<em> (MLSP), Xi'an, China, Aug. 2022. 
+ Gary C.F. Lee, Amir Weiss, Alejandro Lancho, Jennifer Tang, Yuheng Bu, Yury Polyanskiy and Gregory W. Wornell, “Exploiting Temporal Structures of Cyclostationary Signals for Data-Driven Single-Channel Source Separation,” in Proc. <em>IEEE International Workshop for Machine Learning and Signal Processing</em> (MLSP), Xi'an, China, Aug. 2022. 
  [<a href="https://arxiv.org/abs/2208.10325">arXiv</a>] 
  (<b>Best student paper award</b>)
 </li><hr>
