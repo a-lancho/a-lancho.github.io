@@ -82,6 +82,11 @@ A. Lancho, J. Ostman, G. Durisi, T. Koch, and G. Vazquez-Vilar,
 <ol>
 
 <li>
+ Alejandro Lancho, Alexander Fengler and Yury Polyanskiy, “Finite-Blocklength Results for the A-channel: Applications to Unsourced Random Access and Group Testing,” in Proc. <em>58th Annual Allerton Conference on Communication, Control, and Computing,</em> Champaign, IL, September 27-30, 2022
+ [<a href="https://arxiv.org/abs/2210.01951">arXiv</a>] 
+</li><hr>
+
+<li>
  Alejandro Lancho, Amir Weiss, Gary C.F. Lee, Jennifer Tang, Yuheng Bu, Yury Polyanskiy and Gregory W. Wornell, “Data-Driven Blind Synchronization and Interference Rejection for Digital Communication Signals,” to be presented at <em>IEEE Global Communications Conference</em> (GLOBECOM), Rio de Janeiro, Brazil, Dec. 2022. 
  [<a href="https://arxiv.org/abs/2209.04871">arXiv</a>] 
 </li><hr>
