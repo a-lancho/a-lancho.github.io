@@ -87,17 +87,19 @@ A. Lancho, J. Ostman, G. Durisi, T. Koch, and G. Vazquez-Vilar,
 <ol>
 
 <li>
- Alejandro Lancho, Alexander Fengler and Yury Polyanskiy, “Finite-Blocklength Results for the A-channel: Applications to Unsourced Random Access and Group Testing,” in Proc. <em>58th Annual Allerton Conference on Communication, Control, and Computing,</em> Champaign, IL, September 27-30, 2022
- [<a href="https://arxiv.org/abs/2210.01951">arXiv</a>] 
-</li><hr>
-
-<li>
- Alejandro Lancho, Amir Weiss, Gary C.F. Lee, Jennifer Tang, Yuheng Bu, Yury Polyanskiy and Gregory W. Wornell, “Data-Driven Blind Synchronization and Interference Rejection for Digital Communication Signals,” to be presented at <em>IEEE Global Communications Conference</em> (GLOBECOM), Rio de Janeiro, Brazil, Dec. 2022. 
+ Alejandro Lancho, Amir Weiss, Gary C.F. Lee, Jennifer Tang, Yuheng Bu, Yury Polyanskiy and Gregory W. Wornell, “Data-Driven Blind Synchronization and Interference Rejection for Digital Communication Signals,” to be presented at <em>IEEE Global Communications Conference</em> (GLOBECOM), Rio de Janeiro, Brazil, Dec. 2022.
  [<a href="https://arxiv.org/abs/2209.04871">arXiv</a>] 
 </li><hr>
 
 <li>
+ Alejandro Lancho, Alexander Fengler and Yury Polyanskiy, “Finite-Blocklength Results for the A-channel: Applications to Unsourced Random Access and Group Testing,” in Proc. <em>58th Annual Allerton Conference on Communication, Control, and Computing,</em> Champaign, IL, September 27-30, 2022.
+ [<a href="https://ieeexplore.ieee.org/document/9929318">IEEExplore</a>] 
+ [<a href="https://arxiv.org/abs/2210.01951">arXiv</a>] 
+</li><hr>
+
+<li>
  Gary C.F. Lee, Amir Weiss, Alejandro Lancho, Jennifer Tang, Yuheng Bu, Yury Polyanskiy and Gregory W. Wornell, “Exploiting Temporal Structures of Cyclostationary Signals for Data-Driven Single-Channel Source Separation,” in Proc. <em>IEEE International Workshop for Machine Learning and Signal Processing</em> (MLSP), Xi'an, China, Aug. 2022. 
+ [<a href="https://ieeexplore.ieee.org/document/9943311">IEEExplore</a>]
  [<a href="https://arxiv.org/abs/2208.10325">arXiv</a>] 
  (<b>Best student paper award</b>)
 </li><hr>
