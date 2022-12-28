@@ -19,7 +19,8 @@ author_profile: true
 
 <li>
  A. Lancho, G. Durisi, and L. Sanguinetti, “Cell-free Massive MIMO for URLLC: A finite-blocklength analysis,” Jul. 2022. 
- [<a href="https://arxiv.org/abs/2207.00856">arXiv</a>] 
+ [<a href="https://arxiv.org/abs/2207.00856">arXiv</a>]
+ [<a href="https://www.youtube.com/watch?v=Uxk3-8YAK9Q">YouTube</a>]
 </li><hr>
 
 <li>
@@ -117,6 +118,7 @@ A. Lancho, J. Östman and G. Durisi, “On joint detection and decoding in short
 [<a href="https://ieeexplore.ieee.org/document/9685448">IEEExplore</a>] 
 [<a href="https://arxiv.org/pdf/2109.13669.pdf">arXiv</a>]
 [<a href="https://github.com/a-lancho/jointDetDec">Matlab code</a>]
+[<a href="https://www.youtube.com/watch?v=McGaedtIIrA">YouTube</a>]
 </li>
 <hr>
 
@@ -124,6 +126,7 @@ A. Lancho, J. Östman and G. Durisi, “On joint detection and decoding in short
 A. Lancho, G. Durisi, and L. Sanguinetti, “Cell free Massive MIMO with short packets,” in Proc. <em>IEEE Int. Workshop on Signal Process. Adv. and Wireless Commun. (SPAWC)</em>, Lucca, Italy, Sep. 2021. 
 [<a href="https://ieeexplore.ieee.org/document/9593103">IEEExplore</a>]
 [<a href="https://arxiv.org/abs/2107.10707">arXiv</a>]
+[<a href="https://www.youtube.com/watch?v=Uxk3-8YAK9Q">YouTube</a>]
 </li>
 <hr>
 
