@@ -53,7 +53,9 @@ G. Durisi and A. Lancho, <em><a href="https://gdurisi.github.io/fbl-notes/">Tran
 A. Lancho, J. Ostman, G. Durisi, T. Koch, and G. Vazquez-Vilar, 
 “Saddlepoint Approximations for Short-Packet Wireless Communications,” 
 <em>IEEE Trans. Wireless Commun.</em>, Jul. 2020.
-[<a href="https://arxiv.org/abs/1904.10442">arXiv</a>] [<a href="https://ieeexplore.ieee.org/document/9072306">IEEExplore</a>]
+[<a href="https://ieeexplore.ieee.org/document/9072306">IEEExplore</a>]
+[<a href="https://arxiv.org/abs/1904.10442">arXiv</a>]
+[<a href="https://e-archivo.uc3m.es/handle/10016/30725">e-Archivo</a>]
 </li>
 <hr>
 
@@ -61,7 +63,9 @@ A. Lancho, J. Ostman, G. Durisi, T. Koch, and G. Vazquez-Vilar,
   A. Lancho, T. Koch, and G. Durisi, 
   “On single-antenna Rayleigh block-fading channels at ﬁnite blocklength,” 
   <em>IEEE Trans. Inf. Theory</em>, Jan. 2020.
-  [<a href="https://arxiv.org/abs/1706.07778">arXiv</a>] [<a href="https://ieeexplore.ieee.org/document/8861117">IEEExplore</a>]
+  [<a href="https://ieeexplore.ieee.org/document/8861117">IEEExplore</a>]
+  [<a href="https://arxiv.org/abs/1706.07778">arXiv</a>]
+  [<a href="https://e-archivo.uc3m.es/handle/10016/29598">e-Archivo</a>]
 </li>
 <hr>
 
@@ -70,6 +74,7 @@ A. Lancho, J. Ostman, G. Durisi, T. Koch, and G. Vazquez-Vilar,
   “Learning mobile communications standards through flexible software defined radio base stations,” 
   <em>IEEE Communications Magazine</em>, May 2017.
   [<a href="https://ieeexplore.ieee.org/document/7926928">IEEExplore</a>]
+  [<a href="https://e-archivo.uc3m.es/handle/10016/32662">e-Archivo</a>]
 </li>
 <hr>
 
@@ -78,6 +83,7 @@ A. Lancho, J. Ostman, G. Durisi, T. Koch, and G. Vazquez-Vilar,
   “Cooperative optical wireless transmission for improving performance in indoor scenarios for visible light communications,” 
   <em>IEEE Transactions on Consumer Electronics</em>, Nov 2015.
   [<a href="https://ieeexplore.ieee.org/document/7389772">IEEExplore</a>]
+  [<a href="https://e-archivo.uc3m.es/handle/10016/32653">e-Archivo</a>]
 </li>
 <hr>
 
@@ -148,19 +154,22 @@ Massive MIMO,” in Proc. <em>IEEE Int. Conf. Commun. (ICC)</em>, Montreal, Cana
 A. Lancho, J. Östman, T. Koch and G. Vazquez-Vilar, “Finite-Blocklength approximations for noncoherent Rayleigh block-fading channels,” 
 in <em>Proc. Asilomar Conf. Signals, Syst., Comput.</em>, Pacific Grove CA, U.S.A., Nov. 2019. 
 [<a href="https://ieeexplore.ieee.org/document/9049072">IEEExplore</a>]
+[<a href="https://e-archivo.uc3m.es/handle/10016/30733">e-Archivo</a>]
 </li>
 <hr>
 
  <li>
 J. Östman, A. Lancho, and G. Durisi, “Short-packet transmission over a
   bidirectional massive MIMO link,” in Proc. <em>Asilomar Conf. Signals, Syst., Comput.</em>, Pacific Grove CA, U.S.A., Nov. 2019. 
-  [<a href="https://arxiv.org/abs/1912.00718">arXiv</a>] [<a href="https://ieeexplore.ieee.org/document/9048838">IEEExplore</a>]
+  [<a href="https://arxiv.org/abs/1912.00718">arXiv</a>]
+  [<a href="https://ieeexplore.ieee.org/document/9048838">IEEExplore</a>]
 </li>
 <hr>
 
 <li>
     A. Lancho, J. Östman, G. Durisi, T. Koch, and G. Vazquez-Vilar, “Saddlepoint approximations for noncoherent single-antenna Rayleigh block-fading channels,” in Proc. <em>IEEE Int. Symp. Inf. Theory (ISIT)</em>, Paris, France, Jul. 2019.
     [<a href="https://ieeexplore.ieee.org/document/8849659">IEEExplore</a>]
+    [<a href="https://e-archivo.uc3m.es/handle/10016/29129">e-Archivo</a>]
   </li>
   <hr>
 
@@ -169,13 +178,16 @@ J. Östman, A. Lancho, and G. Durisi, “Short-packet transmission over a
     “Saddlepoint approximation of the error probability of binary hypothesis testing,” 
     in Proc. <em>IEEE Int. Symp. Inf. Theory (ISIT)</em>, Vail, USA, Jun. 2018.
     [<a href="https://ieeexplore.ieee.org/document/8437503?arnumber=8437503">IEEExplore</a>]
+    [<a href="https://e-archivo.uc3m.es/handle/10016/27525">e-Archivo</a>]
   </li>
   <hr>
 
 <li>
     A. Lancho, T. Koch, and G. Durisi, “Normal approximation for fading channels,” 
     in Proc. <em>Conf. Infor. Sci. and Syst. (CISS)</em>, Princeton, NJ, USA, Mar. 2018, 
-    <strong>invited paper</strong>. [<a href="https://ieeexplore.ieee.org/document/8362297">IEEExplore</a>]
+    <strong>invited paper</strong>. 
+    [<a href="https://ieeexplore.ieee.org/document/8362297">IEEExplore</a>]
+    [<a href="https://e-archivo.uc3m.es/handle/10016/27514">e-Archivo</a>]
 </li>
 <hr>
 
@@ -183,15 +195,17 @@ J. Östman, A. Lancho, and G. Durisi, “Short-packet transmission over a
     J. Font-Segura, G. Vazquez-Vilar, A. Martinez, A. Guillén i Fàbregas and A. Lancho, 
     “Saddlepoint Approximations of Lower and Upper Bounds to the Error Probability in Channel Coding,” 
     <em>in Proc. Conf. Infor. Sci. and Syst. (CISS)</em>, Princeton, NJ, USA, Mar. 2018, 
-    <strong>invited paper</strong>. [<a href="https://ieeexplore.ieee.org/document/8362304">IEEExplore</a>]
+    <strong>invited paper</strong>. 
+    [<a href="https://ieeexplore.ieee.org/document/8362304">IEEExplore</a>]
+    [<a href="https://e-archivo.uc3m.es/handle/10016/28846">e-Archivo</a>]
 </li>
 <hr>
 
 <li>
 A. Lancho, T. Koch, and G. Durisi, “A high-SNR normal approximation for single-antenna Rayleigh block-fading channels,” 
 in Proc. <em>IEEE Int. Symp. Inf. Theory (ISIT)</em>, Aachen, Germany, Jun. 2017. 
-[<a href="http://publications.lib.chalmers.se/records/fulltext/249350/local_249350.pdf"
-      target="_blank">pdf</a>] [<a href="https://ieeexplore.ieee.org/document/8006834">IEEExplore</a>]
+[<a href="https://ieeexplore.ieee.org/document/8006834">IEEExplore</a>]
+[<a href="https://e-archivo.uc3m.es/handle/10016/26221">e-Archivo</a>]     
 &nbsp;<b>Finalist student best paper award</b>
 </li>
 <hr>
