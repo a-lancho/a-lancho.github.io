@@ -95,6 +95,7 @@ A. Lancho, J. Ostman, G. Durisi, T. Koch, and G. Vazquez-Vilar,
 
 <li>
  A. Lancho, A. Weiss, G.C.F. Lee, J. Tang, Y. Bu, Y. Polyanskiy and G.W. Wornell, “Data-driven blind synchronization and interference rejection for digital communication signals,” in Proc. <em>IEEE Global Communications Conference</em> (GLOBECOM), Rio de Janeiro, Brazil, Dec. 2022.
+ [<a href="https://ieeexplore.ieee.org/document/10001513">IEEExplore</a>]
  [<a href="https://arxiv.org/abs/2209.04871">arXiv</a>]
  [<a href="https://github.com/RFChallenge/SCSS_Sync">Python code</a>]
 </li><hr>
