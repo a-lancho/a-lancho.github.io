@@ -13,7 +13,7 @@ author_profile: true
 <ol>
 
 <li>
- A.O. Kislal, A. Lancho, G. Durisi, and E. Strom, “Efficient evaluation of the error probability for pilot-assisted URLLC with Massive MIMO,” Nov. 2022. 
+ A.O. Kislal, A. Lancho, G. Durisi, and E. Strom, “Efficient evaluation of the error probability for pilot-assisted URLLC with Massive MIMO,” Nov. 2022. (accepted at <em>IEEE Journal Sel. Areas Commun.</em>, Mar. 2023) 
  [<a href="https://arxiv.org/abs/2211.02385">arXiv</a>] 
 </li><hr>
 
@@ -21,11 +21,6 @@ author_profile: true
  A. Lancho, G. Durisi, and L. Sanguinetti, “Cell-free Massive MIMO for URLLC: A finite-blocklength analysis,” Jul. 2022. 
  [<a href="https://arxiv.org/abs/2207.00856">arXiv</a>]
  [<a href="https://www.youtube.com/watch?v=Uxk3-8YAK9Q">YouTube</a>]
-</li><hr>
-
-<li>
- K.-H. Ngo, A. Lancho, G. Durisi, and A. Graell i Amat, “Unsourced multiple access with random user activity,” Feb. 2022. 
- [<a href="https://arxiv.org/abs/2202.06365">arXiv</a>] [<a href="https://github.com/khachoang1412/UMA_random_user_activity">Matlab code</a>]
 </li><hr>
 
 </ol>
@@ -43,6 +38,11 @@ G. Durisi and A. Lancho, <em><a href="https://gdurisi.github.io/fbl-notes/">Tran
 ## Journal Papers
 <font size="2">
 <ol>
+
+<li>
+ K.-H. Ngo, A. Lancho, G. Durisi, and A. Graell i Amat, “Unsourced multiple access with random user activity,” <em>IEEE Trans. Inf. Theory</em>, Feb. 2023. 
+ [<a href="https://arxiv.org/abs/2202.06365">arXiv</a>] [<a href="https://ieeexplore.ieee.org/document/10052701">IEEExplore</a>] [<a href="https://github.com/khachoang1412/UMA_random_user_activity">Matlab code</a>]
+</li><hr>
 
 <li>
  J. Ostman, A. Lancho, G. Durisi, and L. Sanguinetti, “URLLC with Massive MIMO: Analysis and design at finite blocklength,” <em>IEEE Trans. Wireless Commun.</em>, Apr. 2021. [<a href="http://arxiv.org/abs/2009.10550">arXiv</a>] [<a href="https://ieeexplore.ieee.org/document/9416241">IEEExplore</a>] [<a href="https://github.com/infotheorychalmers/URLLC_Massive_MIMO">Matlab code</a>]
