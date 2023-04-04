@@ -18,7 +18,7 @@ author_profile: true
 </li><hr>
 
 <li>
- A. Lancho, G. Durisi, and L. Sanguinetti, “Cell-free Massive MIMO for URLLC: A finite-blocklength analysis,” Jul. 2022. 
+ A. Lancho, G. Durisi, and L. Sanguinetti, “Cell-free Massive MIMO for URLLC: A finite-blocklength analysis,” Jul. 2022. (accepted at <em>IEEE Trans. Wireless Commun.</em>, Mar. 2023)
  [<a href="https://arxiv.org/abs/2207.00856">arXiv</a>]
  [<a href="https://www.youtube.com/watch?v=Uxk3-8YAK9Q">YouTube</a>]
 </li><hr>
