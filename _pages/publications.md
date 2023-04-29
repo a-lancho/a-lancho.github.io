@@ -17,12 +17,6 @@ author_profile: true
  [<a href="https://arxiv.org/abs/2211.02385">arXiv</a>] 
 </li><hr>
 
-<li>
- A. Lancho, G. Durisi, and L. Sanguinetti, “Cell-free Massive MIMO for URLLC: A finite-blocklength analysis,” Jul. 2022. (accepted at <em>IEEE Trans. Wireless Commun.</em>, Mar. 2023)
- [<a href="https://arxiv.org/abs/2207.00856">arXiv</a>]
- [<a href="https://www.youtube.com/watch?v=Uxk3-8YAK9Q">YouTube</a>]
-</li><hr>
-
 </ol>
 </font>
 
@@ -38,6 +32,13 @@ G. Durisi and A. Lancho, <em><a href="https://gdurisi.github.io/fbl-notes/">Tran
 ## Journal Papers
 <font size="2">
 <ol>
+
+<li>
+ A. Lancho, G. Durisi, and L. Sanguinetti, “Cell-free Massive MIMO for URLLC: A finite-blocklength analysis,” <em>IEEE Trans. Wireless Commun.</em>, Apr. 2023.
+ [<a href="https://arxiv.org/abs/2207.00856">arXiv</a>]
+ [<a href="https://ieeexplore.ieee.org/document/10101779">IEEExplore</a>]
+ [<a href="https://www.youtube.com/watch?v=Uxk3-8YAK9Q">YouTube</a>]
+</li><hr>
 
 <li>
  K.-H. Ngo, A. Lancho, G. Durisi, and A. Graell i Amat, “Unsourced multiple access with random user activity,” <em>IEEE Trans. Inf. Theory</em>, Feb. 2023. 
@@ -92,6 +93,13 @@ A. Lancho, J. Ostman, G. Durisi, T. Koch, and G. Vazquez-Vilar,
 ## Conference Papers
 <font size="2">
 <ol>
+
+<li>
+ G.C.F. Lee, A. Weiss, A. Lancho, Y. Polyanskiy, G.W. Wornell, “On neural architectures for deep learning-based source separation of co-channel OFDM signals,” in Proc. <em>IEEE Int. Conf. Acoust., Speech, Signal Process.</em> (ICASSP), Rhodes Island, Greece, Jun. 2022.
+ <!-- [<a href="https://ieeexplore.ieee.org/document/10001513">IEEExplore</a>] -->
+ [<a href="https://arxiv.org/abs/2303.06438">arXiv</a>]
+ [<a href="https://github.com/RFChallenge/SCSS_OFDMArchitecture">Python code</a>]
+</li><hr>
 
 <li>
  A. Lancho, A. Weiss, G.C.F. Lee, J. Tang, Y. Bu, Y. Polyanskiy and G.W. Wornell, “Data-driven blind synchronization and interference rejection for digital communication signals,” in Proc. <em>IEEE Global Communications Conference</em> (GLOBECOM), Rio de Janeiro, Brazil, Dec. 2022.
