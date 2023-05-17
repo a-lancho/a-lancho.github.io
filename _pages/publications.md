@@ -107,7 +107,7 @@ A. Lancho, J. Ostman, G. Durisi, T. Koch, and G. Vazquez-Vilar,
 </li><hr>
 
 <li>
- G.C.F. Lee, A. Weiss, A. Lancho, Y. Polyanskiy, G.W. Wornell, “On neural architectures for deep learning-based source separation of co-channel OFDM signals,” in Proc. <em>IEEE Int. Conf. Acoust., Speech, Signal Process.</em> (ICASSP), Rhodes Island, Greece, Jun. 2022.
+ G.C.F. Lee, A. Weiss, A. Lancho, Y. Polyanskiy, G.W. Wornell, “On neural architectures for deep learning-based source separation of co-channel OFDM signals,” in Proc. <em>IEEE Int. Conf. Acoust., Speech, Signal Process.</em> (ICASSP), Rhodes Island, Greece, Jun. 2023.
  <!-- [<a href="https://ieeexplore.ieee.org/document/10001513">IEEExplore</a>] -->
  [<a href="https://arxiv.org/abs/2303.06438">arXiv</a>]
  [<a href="https://github.com/RFChallenge/SCSS_OFDMArchitecture">Python code</a>]
