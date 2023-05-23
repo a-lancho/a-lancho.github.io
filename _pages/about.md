@@ -51,4 +51,5 @@ See my [CV](/files/cv_ALS.pdf) for further information.
 {% for post in site.categories.news-post limit:12 %}  
     {% include archive-single.html type="grid" %}
 {% endfor %}
+</div>
 
