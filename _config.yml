@@ -103,7 +103,7 @@ analytics:
 # Site Author
 author:
   name             : "Alejandro Lancho"
-  avatar           : "/images/alexweb2.jpg" # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
+  avatar           : "/images/alex_favicon.png" # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
   bio              : "Marie Curie postdoctoral researcher"
   location         : "Cambridge, MA, USA"
   # email            : "lancho@ieee.org"
