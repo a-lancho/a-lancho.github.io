@@ -8,7 +8,7 @@ title: "Publications"
 permalink: /publications/ 
 author_profile: true
 ---
-## Preprints
+<!-- ## Preprints
 <font size="2">
 <ol>
 
@@ -18,7 +18,7 @@ author_profile: true
 </li><hr>
 
 </ol>
-</font>
+</font> -->
 
 ## Lecture Notes
 <font size="2">
@@ -32,6 +32,12 @@ G. Durisi and A. Lancho, <em><a href="https://gdurisi.github.io/fbl-notes/">Tran
 ## Journal Papers
 <font size="2">
 <ol>
+
+<li>
+ A.O. Kislal, A. Lancho, G. Durisi, and E. Strom, “Efficient evaluation of the error probability for pilot-assisted URLLC with Massive MIMO,” <em>IEEE Journal Sel. Areas Commun.</em>, May 2023. 
+ [<a href="https://arxiv.org/abs/2211.02385">arXiv</a>]
+ [<a href="https://ieeexplore.ieee.org/document/10138403">IEEExplore</a>]
+</li><hr>
 
 <li>
  A. Lancho, G. Durisi, and L. Sanguinetti, “Cell-free Massive MIMO for URLLC: A finite-blocklength analysis,” <em>IEEE Trans. Wireless Commun.</em>, Apr. 2023.
