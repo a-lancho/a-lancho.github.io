@@ -1,7 +1,7 @@
 ---
 title: 'Tutorial at EUSIPCO 2023'
 date: 2023-06-26
-permalink: /posts/2023/05/eusipco23_tutorial/
+permalink: /posts/2023/06/eusipco23_tutorial/
 toc: false
 categories:
   - news-post
