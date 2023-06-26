@@ -11,10 +11,10 @@ tags:
   - machine learning
   - interference rejection
 header:
-  teaser: /images/linkedin_eusipco.png
+  teaser: /images/linkedin_eusipco.jpg
 ---
 
-![EUSIPCO 2023 TUTORIAL](/images/linkedin_eusipco.png)
+![EUSIPCO 2023 TUTORIAL](/images/linkedin_eusipco.jpg)
 
 ### Tutorial on "Estimation, Filtering, and Decoding via Deep Learning" at EUSIPCO 2023!
 
