@@ -8,17 +8,17 @@ title: "Publications"
 permalink: /publications/ 
 author_profile: true
 ---
-<!-- ## Preprints
+## Preprints
 <font size="2">
 <ol>
 
 <li>
- A.O. Kislal, A. Lancho, G. Durisi, and E. Strom, “Efficient evaluation of the error probability for pilot-assisted URLLC with Massive MIMO,” Nov. 2022. (accepted at <em>IEEE Journal Sel. Areas Commun.</em>, Mar. 2023) 
- [<a href="https://arxiv.org/abs/2211.02385">arXiv</a>] 
+ T. Jayashankar, G.C.F. Lee, A. Lancho, A. Weiss, Y. Polyanskiy, G.W. Wornell, “Score-based Source Separation with Applications to Digital Communication Signals,” Jun. 2023. 
+ [<a href="https://arxiv.org/abs/2306.14411">arXiv</a>] 
 </li><hr>
 
 </ol>
-</font> -->
+</font>
 
 ## Lecture Notes
 <font size="2">
