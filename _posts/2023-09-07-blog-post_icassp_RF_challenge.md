@@ -13,10 +13,10 @@ tags:
   - machine learning
   - interference rejection
 header:
-  teaser: /images/rfchallenge_icassp.png
+  teaser: /images/rfchallenge_icassp.jpg
 ---
 
-![RF Challenge](/images/rfchallenge_icassp.png)
+![RF Challenge](/images/rfchallenge_icassp.jpg)
 
 ### ICASSP 2024: Data-Driven Signal Separation in Radio Spectrum
 
