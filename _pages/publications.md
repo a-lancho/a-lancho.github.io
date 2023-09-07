@@ -108,7 +108,7 @@ A. Lancho, J. Ostman, G. Durisi, T. Koch, and G. Vazquez-Vilar,
 <li>
  A. Weiss, A. Lancho, G.C.F. Lee, “Estimation, Filtering and Decoding via Deep Learning,” Tutorial at <em>EUSIPCO 2023</em>, Helsinki, Finland, Sep. 2023.
  <!-- [<a href="https://ieeexplore.ieee.org/document/10001513">IEEExplore</a>] -->
- [<a href="/files/2023/EUSIPCO_tutorial.pdf">Slides</a>][<a href="/files/2023/Cheat_Sheet_EUSIPCO_2023_Tutorial">Cheat Sheet</a>][<a href="https://www.kaggle.com/competitions/mini-rf-challenge">Kaggle</a>][<a href="https://www.kaggle.com/code/garycflee/hands-on-session">Github</a>]
+ [<a href="/files/2023/EUSIPCO_tutorial.pdf">Slides</a>][<a href="/files/2023/Cheat_Sheet_EUSIPCO_2023_Tutorial.pdf">Cheat Sheet</a>][<a href="https://www.kaggle.com/competitions/mini-rf-challenge">Kaggle</a>][<a href="https://www.kaggle.com/code/garycflee/hands-on-session">Github</a>]
 </li><hr>
 
 <li>
