@@ -18,7 +18,7 @@ header:
 
 ![RF Challenge](/images/rfchallenge_icassp.jpg)
 
-### ICASSP 2024: Data-Driven Signal Separation in Radio Spectrum
+### ICASSP 2024 Challenge: Data-Driven Signal Separation in Radio Spectrum
 
 Join "ICASSP 2024: Data-Driven Signal Separation in Radio Spectrum" until Dec 1, 2023.
 
@@ -30,4 +30,4 @@ However, radio-frequency (RF) signal processing, including detection, identifica
 
 As part of the USAF-MIT AI ACCELERATOR, we aim to inspire the RF community to create AI-driven solutions. Let's explore contemporary ideas and novel ML techniques to enhance spectral awareness and tackle interference rejection challenges.
 
-Learn more about this exciting journey here: [https://rfchallenge.mit.edu/icassp24-single-channel/](https://rfchallenge.mit.edu/icassp24-single-channel/)
+Learn more about this exciting challenge here: [https://rfchallenge.mit.edu/icassp24-single-channel/](https://rfchallenge.mit.edu/icassp24-single-channel/)
