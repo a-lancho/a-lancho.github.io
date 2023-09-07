@@ -13,12 +13,6 @@ author_profile: true
 <ol>
 
 <li>
- A. Fengler, A. Lancho, Y. Polyanskiy, “Coded Orthogonal Modulation for the Multi-Antenna Multiple-Access Channel,” Jul. 2023.
- <!-- [<a href="https://ieeexplore.ieee.org/document/10001513">IEEExplore</a>] -->
- [<a href="https://arxiv.org/abs/2307.01095">arXiv</a>]
-</li><hr>
-
-<li>
  T. Jayashankar, G.C.F. Lee, A. Lancho, A. Weiss, Y. Polyanskiy, G.W. Wornell, “Score-based Source Separation with Applications to Digital Communication Signals,” Jun. 2023. 
  [<a href="https://arxiv.org/abs/2306.14411">arXiv</a>] 
 </li><hr>
@@ -107,13 +101,24 @@ A. Lancho, J. Ostman, G. Durisi, T. Koch, and G. Vazquez-Vilar,
 <ol>
 
 <li>
- A. Fengler, A. Lancho, K. Narayanan, Y. Polyanskiy, “On the Advantages of Asynchrony in the Unsourced MAC,” to be presented at <em>IEEE Int. Symp. Inf. Theory</em> (ISIT), Taipei, Taiwan, Jun. 2023.
+ A. Fengler, A. Lancho, Y. Polyanskiy, “Coded Orthogonal Modulation for the Multi-Antenna Multiple-Access Channel,” in Proc. <em>IEEE Int. Symp. Topics Coding</em> (ISTC), Brest, France, Sep. 2023.
+ [<a href="https://arxiv.org/abs/2307.01095">arXiv</a>]
+</li><hr>
+
+<li>
+ A. Weiss, A. Lancho, G.C.F. Lee, “Estimation, Filtering and Decoding via Deep Learning,” Tutorial at <em>EUSIPCO 2023</em>, Helsinki, Finland, Sep. 2023.
+ <!-- [<a href="https://ieeexplore.ieee.org/document/10001513">IEEExplore</a>] -->
+ [<a href="/files/2023/EUSIPCO_tutorial.pdf">Slides</a>][<a href="/files/2023/Cheat_Sheet_EUSIPCO_2023_Tutorial">Cheat Sheet</a>][<a href="https://www.kaggle.com/competitions/mini-rf-challenge">Kaggle</a>][<a href="https://www.kaggle.com/code/garycflee/hands-on-session">Github</a>]
+</li><hr>
+
+<li>
+ A. Fengler, A. Lancho, K. Narayanan, Y. Polyanskiy, “On the Advantages of Asynchrony in the Unsourced MAC,” in Proc. <em>IEEE Int. Symp. Inf. Theory</em> (ISIT), Taipei, Taiwan, Jun. 2023.
  <!-- [<a href="https://ieeexplore.ieee.org/document/10001513">IEEExplore</a>] -->
  [<a href="https://arxiv.org/abs/2305.06985">arXiv</a>]
 </li><hr>
 
 <li>
- A. Weiss, A. Lancho, Y. Bu, G.W. Wornell, “A Bilateral Bound on the Mean-Square Error for Estimation in Model Mismatch,” to be presented at <em>IEEE Int. Symp. Inf. Theory</em> (ISIT), Taipei, Taiwan, Jun. 2023.
+ A. Weiss, A. Lancho, Y. Bu, G.W. Wornell, “A Bilateral Bound on the Mean-Square Error for Estimation in Model Mismatch,” in Proc. <em>IEEE Int. Symp. Inf. Theory</em> (ISIT), Taipei, Taiwan, Jun. 2023.
  <!-- [<a href="https://ieeexplore.ieee.org/document/10001513">IEEExplore</a>] -->
  [<a href="https://arxiv.org/abs/2305.08207">arXiv</a>]
 </li><hr>
