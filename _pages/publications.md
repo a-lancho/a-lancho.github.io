@@ -113,13 +113,13 @@ A. Lancho, J. Ostman, G. Durisi, T. Koch, and G. Vazquez-Vilar,
 
 <li>
  A. Fengler, A. Lancho, K. Narayanan, Y. Polyanskiy, “On the Advantages of Asynchrony in the Unsourced MAC,” in Proc. <em>IEEE Int. Symp. Inf. Theory</em> (ISIT), Taipei, Taiwan, Jun. 2023.
- <!-- [<a href="https://ieeexplore.ieee.org/document/10001513">IEEExplore</a>] -->
+ [<a href="https://ieeexplore.ieee.org/document/10206586">IEEExplore</a>]
  [<a href="https://arxiv.org/abs/2305.06985">arXiv</a>]
 </li><hr>
 
 <li>
  A. Weiss, A. Lancho, Y. Bu, G.W. Wornell, “A Bilateral Bound on the Mean-Square Error for Estimation in Model Mismatch,” in Proc. <em>IEEE Int. Symp. Inf. Theory</em> (ISIT), Taipei, Taiwan, Jun. 2023.
- <!-- [<a href="https://ieeexplore.ieee.org/document/10001513">IEEExplore</a>] -->
+ [<a href="https://ieeexplore.ieee.org/document/10206620">IEEExplore</a>]
  [<a href="https://arxiv.org/abs/2305.08207">arXiv</a>]
 </li><hr>
 
