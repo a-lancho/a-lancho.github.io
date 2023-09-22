@@ -15,6 +15,7 @@ author_profile: true
 <li>
  T. Jayashankar, G.C.F. Lee, A. Lancho, A. Weiss, Y. Polyanskiy, G.W. Wornell, “Score-based Source Separation with Applications to Digital Communication Signals,” Jun. 2023. (accepted at NeurIPS 2023 as a poster)
  [<a href="https://arxiv.org/abs/2306.14411">arXiv</a>] 
+ [<a href="https://openreview.net/forum?id=BFGQQKicuu">OpenReview</a>]
 </li><hr>
 
 </ol>
