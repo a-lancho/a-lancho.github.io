@@ -16,7 +16,7 @@ header:
 
 ![NeurIPS 2023](/images/digital_comm_ss_neurips.jpg)
 
-### New Paper at NeurIPS 2023!
+### Paper accepted at NeurIPS 2023!
 
 Our paper, "Score-based Source Separation with Applications to Digital Communication Signals," has been accepted for poster presentation at NeurIPS 2023. 
 
