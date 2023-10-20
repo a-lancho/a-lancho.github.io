@@ -103,6 +103,7 @@ A. Lancho, J. Ostman, G. Durisi, T. Koch, and G. Vazquez-Vilar,
 
 <li>
  A. Fengler, A. Lancho, Y. Polyanskiy, “Coded Orthogonal Modulation for the Multi-Antenna Multiple-Access Channel,” in Proc. <em>IEEE Int. Symp. Topics Coding</em> (ISTC), Brest, France, Sep. 2023.
+ [<a href="https://ieeexplore.ieee.org/document/10273538">IEEExplore</a>]
  [<a href="https://arxiv.org/abs/2307.01095">arXiv</a>]
 </li><hr>
 
