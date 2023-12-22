@@ -31,3 +31,7 @@ However, radio-frequency (RF) signal processing, including detection, identifica
 As part of the USAF-MIT AI ACCELERATOR, we aim to inspire the RF community to create AI-driven solutions. Let's explore contemporary ideas and novel ML techniques to enhance spectral awareness and tackle interference rejection challenges.
 
 Learn more about this exciting challenge here: [https://rfchallenge.mit.edu/icassp24-single-channel/](https://rfchallenge.mit.edu/icassp24-single-channel/)
+
+<img src="/images/flag_yellow_low.jpeg" width="200" height="100">
+
+This work was supported by the European Union’s Horizon 2020 research and innovation programme under the Marie Sklodowska-Curie grant agreement No. 101024432.

@@ -26,3 +26,6 @@ To know more about the tutorial and for how to cite it in your future work, visi
 
 Finally, for data science enthusiasts, the RFChallenge at MIT is now part of the ICASSP 2024 Grand Challenge competitions! Check out the details on [https://rfchallenge.mit.edu/icassp24-single-channel/](https://rfchallenge.mit.edu/icassp24-single-channel/) 
 
+<img src="/images/flag_yellow_low.jpeg" width="200" height="100">
+
+This work was supported by the European Union’s Horizon 2020 research and innovation programme under the Marie Sklodowska-Curie grant agreement No. 101024432.

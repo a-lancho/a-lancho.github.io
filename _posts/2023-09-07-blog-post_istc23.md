@@ -23,3 +23,7 @@ New paper on unsourced random access using orthogonal modulation, outer coding, 
 Our study delves into multiple-access communication over single-antenna transmitters and multi-antenna receivers, considering full or partial channel state information. We introduce a low-complexity solution called COMMA, combining outer coding, orthogonal modulation, and the MMV-AMP algorithm to jointly estimate user codewords efficiently. Numerical results demonstrate COMMA's superiority over traditional linear multiuser detection with Gaussian signaling, especially when user densities are large compared to the number of receive antennas.
 
 An extended version of our paper is already available on [arxiv](https://arxiv.org/abs/2307.01095).
+
+<img src="/images/flag_yellow_low.jpeg" width="200" height="100">
+
+This work was supported by the European Union’s Horizon 2020 research and innovation programme under the Marie Sklodowska-Curie grant agreement No. 101024432.

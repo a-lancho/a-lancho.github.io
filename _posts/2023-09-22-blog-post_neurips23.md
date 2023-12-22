@@ -26,3 +26,6 @@ Our paper, "Score-based Source Separation with Applications to Digital Communica
 
 📝 If interested, the paper is already available on [arxiv](https://arxiv.org/abs/2306.14411).
  
+<img src="/images/flag_yellow_low.jpeg" width="200" height="100">
+
+This work was supported by the European Union’s Horizon 2020 research and innovation programme under the Marie Sklodowska-Curie grant agreement No. 101024432.
