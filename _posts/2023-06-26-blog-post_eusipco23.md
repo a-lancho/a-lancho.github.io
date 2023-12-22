@@ -41,3 +41,8 @@ This tutorial will provide you with:
 ✅ Hands-on introductory coding session on the starter code of the [RF Challenge](https://rfchallenge.mit.edu/)
 
 ✅ Networking opportunities with like-minded professionals
+
+![EU flag](/images/flag_yellow_low.jpeg){width=30%}
+
+
+This work was supported by the European Union’s Horizon 2020 research and innovation programme under the Marie Sklodowska-Curie grant agreement No. 101024432.
