@@ -1,7 +1,7 @@
 ---
 permalink: /
 title: "Alejandro Lancho"
-excerpt: "Alejandro Lancho, Postdoctoral Researcher, Massachusetts Institute of Technology, information theory, communication theory, wireless communications"
+excerpt: "Alejandro Lancho, Postdoctoral Researcher, Universidad Carlos III de Madrid, machine learning, information theory, communication theory, wireless communications"
 author_profile: true
 layout: single
 classes: wide
@@ -10,10 +10,10 @@ redirect_from:
   - /about.html
 ---
 
-MSCA postdoctoral fellow at Massachusetts Institute of Technology [(MIT)](https://web.mit.edu/)\
-Department of Electrical Engineering and Computer Science (EECS)\
-Laboratory for Information and Decision Systems (LIDS)\
-Cambridge, MA, USA   
+MSCA postdoctoral fellow at Universidad Carlos III de Madrid\
+Signal Theory and Communications Department (TSC)\
+Signal Processing Group (GTS)\
+Leganes, Madrid, Spain   
 <!-- [Directions to my office](http://maps.google.com/maps/ms?ie=UTF&msa=0&msid=108483441345999380628.00049637fcf7f87e20bc4) -->
 
 ---
@@ -31,13 +31,17 @@ Further information about the project can be found in https://cordis.europa.eu/p
   
 
 # Research interests
-My research interests are in the areas of information theory and wireless communications. Specifically,
+My research interests are in the areas of information theory and machine learning with applications to wireless communications. Specifically,
 
 - Finite blocklength information theory with applications to
   - Short-packet communications
   - Ultra-reliable low-latency communications
   - Massive MIMO
   - Massive random access
+- Deep learning for wireless communications:
+  - Generative models 
+  - Source separation (interference rejection)
+  - Inverse problems
 
 See my [CV](/files/cv_ALS.pdf) for further information.
 
