@@ -140,6 +140,11 @@ A. Lancho, J. Ostman, G. Durisi, T. Koch, and G. Vazquez-Vilar,
 </li><hr>
 
 <li>
+ A.O. Kislal, A. Lancho, G. Durisi and E.G. Ström, “Efficient evaluation of the error probability for pilot-assisted finite-blocklength transmission,” in <em>Proc. Asilomar Conf. Signals, Syst., Comput.</em>, Pacific Grove CA, U.S.A., Nov. 2022. 
+[<a href="https://ieeexplore.ieee.org/document/10052080">IEEExplore</a>]
+</li><hr>
+
+<li>
  A. Lancho, A. Fengler and Y. Polyanskiy, “Finite-blocklength results for the A-channel: applications to unsourced random access and group testing,” in Proc. <em>58th Annual Allerton Conference on Communication, Control, and Computing,</em> Champaign, IL, Sep. 27-30, 2022.
  [<a href="https://ieeexplore.ieee.org/document/9929318">IEEExplore</a>] 
  [<a href="https://arxiv.org/abs/2210.01951">arXiv</a>]
