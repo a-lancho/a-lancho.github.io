@@ -102,6 +102,15 @@ A. Lancho, J. Ostman, G. Durisi, T. Koch, and G. Vazquez-Vilar,
 <ol>
 
 <li>
+ T. Jayashankar, G.C.F. Lee, A. Lancho, A. Weiss, Y. Polyanskiy, G.W. Wornell, “Score-based Source Separation with Applications to Digital Communication Signals,” in Proc. Conf. Neural Information Processing Systems (NeurIPS), New Orleans, LA, U.S.A., Dec. 2023.
+ [<a href="https://arxiv.org/abs/2306.14411">arXiv</a>] 
+ [<a href="https://openreview.net/forum?id=BFGQQKicuu">OpenReview</a>]
+ [<a href="https://alpha-rgs.github.io/">Website</a>]
+ [<a href="https://github.com/tkj516/score_based_source_separation">GitHub</a>]
+ 
+</li><hr>
+
+<li>
  A. Fengler, A. Lancho, Y. Polyanskiy, “Coded Orthogonal Modulation for the Multi-Antenna Multiple-Access Channel,” in Proc. <em>IEEE Int. Symp. Topics Coding</em> (ISTC), Brest, France, Sep. 2023.
  [<a href="https://ieeexplore.ieee.org/document/10273538">IEEExplore</a>]
  [<a href="https://arxiv.org/abs/2307.01095">arXiv</a>]
