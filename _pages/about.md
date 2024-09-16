@@ -10,7 +10,7 @@ redirect_from:
   - /about.html
 ---
 
-MSCA postdoctoral fellow at Universidad Carlos III de Madrid\
+Cesar Nombela Research Fellow at Universidad Carlos III de Madrid\
 Signal Theory and Communications Department (TSC)\
 Signal Processing Group (GTS)\
 Leganes, Madrid, Spain   
@@ -21,27 +21,24 @@ Leganes, Madrid, Spain
 # About
 I received my B.E., M.Sc. and Ph.D. degrees in Electrical Engineering from the Universidad Carlos III de Madrid, Spain, in 2013, 2014 and 2019, respectively. I was an FPU fellow (Spanish Ministerio de Educación Cultura y Deporte) during my Ph.D. studies. I was among the six finalists for the IEEE Jack Keil Wolf ISIT Student Paper Award at the 2017 IEEE International Symposium on Information Theory, Aachen, Germany, 2017. During the fall of 2017, I was a visiting researcher at Chalmers University of Technology. From October 2019 to September 2021, I was a postdoctoral researcher at Chalmers University of Technology.
 
-From October 2021, I am a Marie Curie postdoctoral fellow. From October 2021 to September 2023 I worked at the MIT under the supervision of Prof. Yury Polyanskiy. I am now working at the Universidad Carlos III de Madrid, Spain, under the supervision of Prof. Tobias Koch. The main objective of this Marie Curie project is to make progress on the study of the fundamental limits and tradeoffs of the asynchronous massive connectivity problem from an information-theoretic perspective, focusing on computationally tractable bounds, approximations, and transmission schemes.
-
-Further information about the project can be found in https://cordis.europa.eu/project/id/101024432.
-
-
-
+From October 2021 to June 2024, I was a Marie Curie postdoctoral fellow. From October 2021 to September 2023 I worked at the MIT under the supervision of Prof. Yury Polyanskiy. From October 2023 I am with the Universidad Carlos III de Madrid, Spain, where I am a Cesar Nombela Research Fellow (Atracción de Talento from the Community of Madrid Program). 
 
   
 
 # Research interests
 My research interests are in the areas of information theory and machine learning with applications to wireless communications. Specifically,
 
+- Deep learning
+  - Applications to wireless communications
+    - Source separation (interference rejection)
+    - Inverse problems
+  - Generative interpretable models 
+
 - Finite blocklength information theory with applications to
   - Short-packet communications
   - Ultra-reliable low-latency communications
   - Massive MIMO
   - Massive random access
-- Deep learning for wireless communications:
-  - Generative models 
-  - Source separation (interference rejection)
-  - Inverse problems
 
 See my [CV](/files/cv_ALS.pdf) for further information.
 
