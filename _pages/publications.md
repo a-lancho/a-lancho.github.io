@@ -101,7 +101,7 @@ A. Lancho, J. Ostman, G. Durisi, T. Koch, and G. Vazquez-Vilar,
 <ol>
 
 <li>
- T. Jayashankar, B. Kurien, A. Lancho, G.C.F. Lee, Y. Polyanskiy, A. Weiss, G.W. Wornell, “The Data-Driven Radio Frequency Signal Separation Challenge,” IEEE Int. Conf. Acoust., Speech, Signal Process.</em> (ICASSP), Seoul, Republic of Korea, Apr. 2024.
+ T. Jayashankar, B. Kurien, A. Lancho, G.C.F. Lee, Y. Polyanskiy, A. Weiss, G.W. Wornell, “The Data-Driven Radio Frequency Signal Separation Challenge,” <em>IEEE Int. Conf. Acoust., Speech, Signal Process.</em> (ICASSP), Seoul, Republic of Korea, Apr. 2024.
  [<a href="https://ieeexplore.ieee.org/document/10627554">IEEExplore</a>] 
  [<a href="https://rfchallenge.mit.edu/wp-content/uploads/2024/02/organizers_paper_camera_ready.pdf">Open Access</a>]
  [<a href="https://rfchallenge.mit.edu/icassp24-single-channel/">Website</a>]
@@ -110,7 +110,7 @@ A. Lancho, J. Ostman, G. Durisi, T. Koch, and G. Vazquez-Vilar,
 </li><hr>
 
 <li>
- T. Jayashankar, G.C.F. Lee, A. Lancho, A. Weiss, Y. Polyanskiy, G.W. Wornell, “Score-based Source Separation with Applications to Digital Communication Signals,” in Proc. Conf. Neural Information Processing Systems (NeurIPS), New Orleans, LA, U.S.A., Dec. 2023.
+ T. Jayashankar, G.C.F. Lee, A. Lancho, A. Weiss, Y. Polyanskiy, G.W. Wornell, “Score-based Source Separation with Applications to Digital Communication Signals,” in Proc. <em>Conf. Neural Information Processing Systems</em> (NeurIPS), New Orleans, LA, U.S.A., Dec. 2023.
  [<a href="https://arxiv.org/abs/2306.14411">arXiv</a>] 
  [<a href="https://openreview.net/forum?id=BFGQQKicuu">OpenReview</a>]
  [<a href="https://alpha-rgs.github.io/">Website</a>]
