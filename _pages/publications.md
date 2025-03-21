@@ -13,6 +13,11 @@ author_profile: true
 <ol>
 
 <li>
+ R. Oliver, J. Pérez-Sabater, L. Paz-Arbaizar, A. Lancho, A. Artés, P. M. Olmos, “A Foundation Model for Patient Behavior Monitoring and Suicide Detection,” Mar. 2025. (submitted to UAI 2025)
+ [<a href="https://arxiv.org/abs/2503.15221">arXiv</a>] 
+</li><hr>
+
+<li>
  A. Lancho, A. Weiss, G.C.F. Lee, T. Jayashankar, B. Kurien, Y. Polyanskiy, G.W. Wornell, “RF Challenge: The Data-Driven Radio Frequency Signal Separation Challenge,” Sep. 2024. (submitted to the IEEE Open Journal of the Communications Society)
  [<a href="http://arxiv.org/abs/2409.08839">arXiv</a>] 
 </li><hr>
