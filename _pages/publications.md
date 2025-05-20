@@ -17,11 +17,6 @@ author_profile: true
  [<a href="https://arxiv.org/abs/2503.15221">arXiv</a>] 
 </li><hr>
 
-<li>
- A. Lancho, A. Weiss, G.C.F. Lee, T. Jayashankar, B. Kurien, Y. Polyanskiy, G.W. Wornell, “RF Challenge: The Data-Driven Radio Frequency Signal Separation Challenge,” Sep. 2024. (submitted to the IEEE Open Journal of the Communications Society)
- [<a href="http://arxiv.org/abs/2409.08839">arXiv</a>] 
-</li><hr>
-
 </ol>
 </font>
 
@@ -37,6 +32,12 @@ G. Durisi and A. Lancho, <em><a href="https://gdurisi.github.io/fbl-notes/">Tran
 ## Journal Papers
 <font size="2">
 <ol>
+
+<li>
+ A. Lancho, A. Weiss, G.C.F. Lee, T. Jayashankar, B. Kurien, Y. Polyanskiy, G.W. Wornell, “RF Challenge: The Data-Driven Radio Frequency Signal Separation Challenge,” <em>IEEE Open J. Commun. Soc.</em>, Apr. 2025
+ [<a href="http://arxiv.org/abs/2409.08839">arXiv</a>] 
+ [<a href="https://ieeexplore.ieee.org/document/10945811">IEEExplore</a>]
+</li><hr>
 
 <li>
  A.O. Kislal, A. Lancho, G. Durisi, and E. Strom, “Efficient evaluation of the error probability for pilot-assisted URLLC with Massive MIMO,” <em>IEEE Journal Sel. Areas Commun.</em>, May 2023. 
