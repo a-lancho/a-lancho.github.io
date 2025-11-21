@@ -13,7 +13,7 @@ author_profile: true
 <ol>
 
 <li>
- R. Oliver, J. Pérez-Sabater, L. Paz-Arbaizar, A. Lancho, A. Artés, P. M. Olmos, “A Foundation Model for Patient Behavior Monitoring and Suicide Detection,” Mar. 2025. (submitted to UAI 2025)
+ R. Oliver, J. Pérez-Sabater, L. Paz-Arbaizar, A. Lancho, A. Artés, P. M. Olmos, “A Foundation Model for Patient Behavior Monitoring and Suicide Detection,” Mar. 2025.
  [<a href="https://arxiv.org/abs/2503.15221">arXiv</a>] 
 </li><hr>
 
@@ -105,6 +105,13 @@ A. Lancho, J. Ostman, G. Durisi, T. Koch, and G. Vazquez-Vilar,
 ## Conference Papers
 <font size="2">
 <ol>
+
+<li>
+C. Prothmann et al., ``Advancing AI Challenges for the United States Department of the Air Force*,'' <em>IEEE High Performance Extreme Computing Conference (HPEC)</em>, Wakefield, MA, USA, Oct. 2025.
+[<a href="https://ieeexplore.ieee.org/document/11196365">IEEExplore</a>]
+[<a href="https://arxiv.org/abs/2511.00267">arXiv</a>] 
+
+</li><hr>
 
 <li>
  T. Jayashankar, B. Kurien, A. Lancho, G.C.F. Lee, Y. Polyanskiy, A. Weiss, G.W. Wornell, “The Data-Driven Radio Frequency Signal Separation Challenge,” <em>IEEE Int. Conf. Acoust., Speech, Signal Process.</em> (ICASSP), Seoul, Republic of Korea, Apr. 2024.
