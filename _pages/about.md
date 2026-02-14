@@ -9,48 +9,64 @@ redirect_from:
   - /about/
   - /about.html
 ---
+<section class="section-card">
+  <h2>About</h2>
+  <p>
+    I received my B.E., M.Sc., and Ph.D. degrees in Electrical Engineering from Universidad Carlos III de Madrid in 2013, 2014, and 2019.
+  </p>
+  <p>
+    From 2019 to 2021, I was a postdoctoral researcher at Chalmers University of Technology. From 2021 to 2023, I was a Marie Curie Postdoctoral Global Fellow at MIT. Since October 2023, I have been with Universidad Carlos III de Madrid as an Atraccion de Talento Comunidad de Madrid Cesar Nombela Research Fellow.
+  </p>
+  <p>
+    I was among the six finalists for the IEEE Jack Keil Wolf ISIT Student Paper Award at the 2017 IEEE International Symposium on Information Theory.
+  </p>
+</section>
 
-Cesar Nombela Research Fellow at Universidad Carlos III de Madrid\
-Signal Theory and Communications Department (TSC)\
-Signal Processing Group (GTS)\
-Leganes, Madrid, Spain   
-<!-- [Directions to my office](http://maps.google.com/maps/ms?ie=UTF&msa=0&msid=108483441345999380628.00049637fcf7f87e20bc4) -->
+<section class="section-card">
+  <h2>Research Interests</h2>
+  <ul class="research-chips">
+    <li>Deep Generative Models</li>
+    <li>Deep Learning for Wireless Communications</li>
+    <li>Finite Blocklength Information Theory</li>
+    <li>URLLC</li>
+    <li>Massive Access</li>
+    <li>Deep Learning for Health</li>
+  </ul>
+</section>
 
----
+<section class="section-card selected-pubs">
+  <h2>Selected Publications</h2>
+  <ul>
+    <li>
+      M. Martinez-Garcia, R. Vazquez Alvarez, A. Lancho, P. M. Olmos, I. Valera, "A Probabilistic Hard Concept Bottleneck for Steerable Generative Models," in <em>Proc. Int. Conf. Learn. Representations (ICLR)</em>, Rio de Janeiro, Brazil, 2026.
+      <a href="https://openreview.net/forum?id=Kcb6WufAco">OpenReview</a>
+    </li>
+    <li>
+      A. Lancho, A. Weiss, G.C.F. Lee, T. Jayashankar, B. Kurien, Y. Polyanskiy, G.W. Wornell, "RF Challenge: The Data-Driven Radio Frequency Signal Separation Challenge," <em>IEEE Open Journal of the Communications Society</em>, Apr. 2025.
+      <a href="https://ieeexplore.ieee.org/document/10945811">IEEE Xplore</a>
+      <a href="http://arxiv.org/abs/2409.08839">arXiv</a>
+    </li>
+    <li>
+      T. Jayashankar, G.C.F. Lee, A. Lancho, A. Weiss, Y. Polyanskiy, G.W. Wornell, "Score-based Source Separation with Applications to Digital Communication Signals," in <em>Proc. Conf. Neural Information Processing Systems (NeurIPS)</em>, New Orleans, LA, USA, Dec. 2023.
+      <a href="https://openreview.net/forum?id=BFGQQKicuu">OpenReview</a>
+      <a href="https://arxiv.org/abs/2306.14411">arXiv</a>
+    </li>
+    <li>
+      J. Ostman, A. Lancho, G. Durisi, L. Sanguinetti, "URLLC with Massive MIMO: Analysis and Design at Finite Blocklength," <em>IEEE Transactions on Wireless Communications</em>, Apr. 2021.
+      <a href="https://ieeexplore.ieee.org/document/9416241">IEEE Xplore</a>
+      <a href="http://arxiv.org/abs/2009.10550">arXiv</a>
+    </li>
+  </ul>
+  <p><a href="/publications/">Browse full publications list</a></p>
+</section>
 
-# About
-I received my B.E., M.Sc. and Ph.D. degrees in Electrical Engineering from the Universidad Carlos III de Madrid, Spain, in 2013, 2014 and 2019, respectively. I was an FPU fellow (Spanish Ministerio de Educación Cultura y Deporte) during my Ph.D. studies. I was among the six finalists for the IEEE Jack Keil Wolf ISIT Student Paper Award at the 2017 IEEE International Symposium on Information Theory, Aachen, Germany, 2017. During the fall of 2017, I was a visiting researcher at Chalmers University of Technology. From October 2019 to September 2021, I was a postdoctoral researcher at Chalmers University of Technology.
+See my [CV](/files/cv_ALS.pdf) for further details.
 
-From October 2021 to June 2024, I was a Marie Curie postdoctoral fellow. From October 2021 to September 2023 I worked at the MIT under the supervision of Prof. Yury Polyanskiy. From October 2023 I am with the Universidad Carlos III de Madrid, Spain, where I am a Cesar Nombela Research Fellow (Atracción de Talento from the Community of Madrid Program). 
-
-  
-
-# Research interests
-My research interests are in the areas of information theory and machine learning with applications to wireless communications. Specifically,
-
-- Deep learning
-  - Applications to wireless communications
-    - Source separation (interference rejection)
-    - Inverse problems
-  - Generative interpretable models 
-
-- Finite blocklength information theory with applications to
-  - Short-packet communications
-  - Ultra-reliable low-latency communications
-  - Massive MIMO
-  - Massive random access
-
-See my [CV](/files/cv_ALS.pdf) for further information.
-
-<!-- ---
-# My blog: [short packets](/year-archive)
-</div> -->
----
-# News
----
+<!-- News section intentionally hidden for now.
+## News
 <div class="grid__wrapper">
-{% for post in site.categories.news-post limit:12 %}  
+{% for post in site.categories.news-post limit:12 %}
     {% include archive-single.html type="grid" %}
 {% endfor %}
 </div>
-
+-->

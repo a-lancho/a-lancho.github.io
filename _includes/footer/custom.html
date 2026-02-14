@@ -1,2 +1,108 @@
 <!-- start custom footer snippets -->
+<script>
+  (function () {
+    const links = document.querySelectorAll("a[href]");
+    links.forEach((link) => {
+      const href = link.getAttribute("href");
+      if (!href) return;
+      if (href.startsWith("#") || href.startsWith("mailto:") || href.startsWith("tel:") || href.startsWith("javascript:")) return;
+
+      let url;
+      try {
+        url = new URL(href, window.location.href);
+      } catch (e) {
+        return;
+      }
+
+      if (url.origin !== window.location.origin) {
+        link.setAttribute("target", "_blank");
+        const currentRel = (link.getAttribute("rel") || "").trim();
+        const relParts = new Set(currentRel ? currentRel.split(/\s+/) : []);
+        relParts.add("noopener");
+        relParts.add("noreferrer");
+        link.setAttribute("rel", Array.from(relParts).join(" "));
+      }
+    });
+  })();
+
+  (function () {
+    if (!/\/publications\/?$/.test(window.location.pathname)) return;
+
+    const content = document.querySelector(".publications-page .page__content");
+    if (!content) return;
+
+    const links = content.querySelectorAll("li a[href]");
+    links.forEach((link) => {
+      const href = (link.getAttribute("href") || "").toLowerCase();
+      const label = (link.textContent || "").trim();
+      const labelLc = label.toLowerCase();
+      const longDescriptiveLabel = label.length > 28 || /\s{1,}/.test(label) && label.length > 22;
+      const labelIsResource =
+        /arxiv|ieeexplore|ieee xplore|youtube|github|kaggle|openreview|e-archivo|slides|cheat|code|open access|website|pdf|acm|doi|matlab|python/.test(
+          labelLc
+        );
+      const hrefIsResource = /\/abs\/|\/pdf\/|\.pdf($|\?)|arxiv\.org|ieeexplore\.ieee\.org|youtube\.com|youtu\.be|github\.com|kaggle\.com|openreview\.net|dl\.acm\.org|doi\.org/.test(
+        href
+      );
+      const isResource = labelIsResource || (hrefIsResource && !longDescriptiveLabel);
+
+      if (!isResource) return;
+
+      let iconClass = "fas fa-link";
+      let iconImg = "";
+      if (/arxiv/.test(labelLc) || /arxiv\.org/.test(href)) iconImg = "/images/arxiv_icon.png";
+      else if (/ieeexplore|ieee xplore/.test(labelLc) || /ieeexplore\.ieee\.org/.test(href)) iconImg = "/images/IEEE_icon.png";
+      else if (/openreview/.test(labelLc) || /openreview\.net/.test(href)) iconImg = "/images/openreview_icon.png";
+      else if (/youtube/.test(labelLc) || /youtube\.com|youtu\.be/.test(href)) iconClass = "fab fa-youtube";
+      else if (/github/.test(labelLc) || /github\.com/.test(href)) iconClass = "fab fa-github";
+      else if (/kaggle/.test(labelLc) || /kaggle\.com/.test(href)) iconImg = "/images/kaggle_icon.png";
+      else if (/acm|doi/.test(labelLc) || /dl\.acm\.org|doi\.org/.test(href)) iconClass = "fas fa-book-open";
+      else if (/e-archivo|slides|pdf|open access/.test(labelLc) || /\.pdf($|\?)/.test(href)) iconClass = "fas fa-file-pdf";
+      else if (/code|matlab|python/.test(labelLc)) iconClass = "fas fa-code";
+      else if (/website/.test(labelLc)) iconClass = "fas fa-globe";
+
+      link.classList.add("pub-icon-link");
+      link.setAttribute("title", label);
+      link.setAttribute("aria-label", label);
+      link.innerHTML = iconImg
+        ? '<img class="pub-icon-img" src="' + iconImg + '" alt="" aria-hidden="true">'
+        : '<i class="' + iconClass + '" aria-hidden="true"></i>';
+    });
+
+    const toolbar = content.querySelector(".pub-filter-toolbar");
+    if (!toolbar) return;
+
+    const buttons = toolbar.querySelectorAll(".pub-filter-btn[data-pub-filter]");
+    const headings = Array.from(content.querySelectorAll("h2"));
+    const sectionBlocks = headings.map((heading) => {
+      const sectionName = (heading.textContent || "").trim().toLowerCase();
+      const nodes = [heading];
+      let current = heading.nextElementSibling;
+      while (current && current.tagName !== "H2") {
+        nodes.push(current);
+        current = current.nextElementSibling;
+      }
+      return { sectionName: sectionName, nodes: nodes };
+    });
+
+    const setFilter = (filterValue) => {
+      sectionBlocks.forEach((section) => {
+        const show = filterValue === "all" || section.sectionName === filterValue;
+        section.nodes.forEach((node) => {
+          node.style.display = show ? "" : "none";
+        });
+      });
+
+      buttons.forEach((btn) => {
+        btn.classList.toggle("is-active", btn.dataset.pubFilter === filterValue);
+      });
+    };
+
+    buttons.forEach((btn) => {
+      btn.addEventListener("click", () => {
+        setFilter(btn.dataset.pubFilter || "all");
+      });
+    });
+  })();
+</script>
 <!-- end custom footer snippets -->

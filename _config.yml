@@ -12,7 +12,7 @@
 
 # theme                  : "minimal-mistakes-jekyll"
 remote_theme           : "mmistakes/minimal-mistakes@4.20.2"
-minimal_mistakes_skin    : "dirt" # "air", "aqua", "contrast", "dark", "dirt", "neon", "mint", "plum", "sunrise"
+minimal_mistakes_skin    : "air" # "air", "aqua", "contrast", "dark", "dirt", "neon", "mint", "plum", "sunrise"
 
 # Site Settings
 locale                   : "en-US"
@@ -104,8 +104,8 @@ analytics:
 author:
   name             : "Alejandro Lancho"
   avatar           : "/images/alex_favicon.png" # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : "Marie Curie postdoctoral researcher"
-  location         : "Cambridge, MA, USA"
+  bio              : "Universidad Carlos III de Madrid, Department of Signal Theory and Communications, Signal Processing and Learning Group"
+  location         : "Leganes, Madrid, Spain"
   # email            : "lancho@ieee.org"
   # twitter          : "@Alex_L_S"
   # github           : "a-lancho"
