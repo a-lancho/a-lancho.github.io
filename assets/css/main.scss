@@ -109,6 +109,18 @@ h6,
   padding-left: 0;
 }
 
+@include breakpoint(max-width $large) {
+  .author__urls-wrapper button {
+    left: 0;
+    right: auto;
+  }
+
+  .author__urls {
+    left: 0;
+    right: auto;
+  }
+}
+
 .author__name {
   color: var(--brand-ink);
 }
