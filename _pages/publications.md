@@ -129,6 +129,7 @@ A. Lancho, J. Ostman, G. Durisi, T. Koch, and G. Vazquez-Vilar,
 
 <li>
  A. Weiss, A. Lancho, “Extremum-Based Joint Compression and Detection for Distributed Sensing,” accepted at <em>Asilomar Conf. Signals, Syst., Comput.</em>, Pacific Grove, CA, U.S.A., Oct. 2025.
+ <a href="https://arxiv.org/abs/2603.27733">arXiv</a>
 </li><hr>
 
 <li>
